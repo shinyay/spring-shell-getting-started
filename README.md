@@ -32,6 +32,11 @@ Given that Spring Shell will kick in and start the REPL by virtue of this depend
 $ ./gradlew clean build
 ```
 
+#### Run
+```
+$ java -jar build/libs/spring-shell-gs-0.0.1-SNAPSHOT.jar
+```
+
 ## Demo
 
 ## Features
