@@ -1,6 +1,5 @@
 package com.google.shinyay
 
-import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 import org.springframework.shell.standard.ShellComponent
@@ -14,6 +13,5 @@ class SpringShellGsApplication {
 }
 
 fun main(args: Array<String>) {
-//	runApplication<SpringShellGsApplication>(*args)
-	SpringApplication.run(SpringShellGsApplication::class.java, *args)
+	runApplication<SpringShellGsApplication>(*args)
 }
