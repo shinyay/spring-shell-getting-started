@@ -5,6 +5,12 @@ The Spring Shell project provides an interactive shell that allows you to plugin
 - [Spring Shell](https://projects.spring.io/spring-shell)
 
 ## Description
+### Dependency
+```
+dependencies {
+	implementation("org.springframework.shell:spring-shell-starter:2.0.1.RELEASE")
+}
+```
 
 ## Demo
 
