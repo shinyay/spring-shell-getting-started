@@ -15,6 +15,9 @@ dependencies {
 ### Spring Shell
 Users of the Spring Shell project can easily build a full featured shell application by depending on the Spring Shell jars and adding their own commands (which come as methods on spring beans). 
 
+#### `@ShellComponent`
+a variation of @Component that is used to restrict the set of classes that are scanned for candidate commands
+
 ## Demo
 
 ## Features
