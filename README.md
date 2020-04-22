@@ -12,6 +12,9 @@ dependencies {
 }
 ```
 
+### Spring Shell
+Users of the Spring Shell project can easily build a full featured shell application by depending on the Spring Shell jars and adding their own commands (which come as methods on spring beans). 
+
 ## Demo
 
 ## Features
