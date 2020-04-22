@@ -37,6 +37,21 @@ $ ./gradlew clean build
 $ java -jar build/libs/spring-shell-gs-0.0.1-SNAPSHOT.jar
 ```
 
+```
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.2.6.RELEASE)
+
+2020-04-23 07:30:25.702  INFO 93477 --- [           main] c.g.shinyay.SpringShellGsApplicationKt   : Starting SpringShellGsApplicationKt on shinyay.local with PID 93477 (/Users/shinyay/works/spring/spring-shell-getting-started/spring/build/libs/spring-shell-gs-0.0.1-SNAPSHOT.jar started by shinyay in /Users/shinyay/works/spring/spring-shell-getting-started/spring)
+2020-04-23 07:30:25.714  INFO 93477 --- [           main] c.g.shinyay.SpringShellGsApplicationKt   : No active profile set, falling back to default profiles: default
+2020-04-23 07:30:27.414  INFO 93477 --- [           main] c.g.shinyay.SpringShellGsApplicationKt   : Started SpringShellGsApplicationKt in 2.581 seconds (JVM running for 3.18)
+```
+
 ## Demo
 
 ## Features
